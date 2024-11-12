@@ -1,4 +1,4 @@
-## Hi there 👋 I am a undergraduate student from Nepal Engineering College, Neapl.
+## Hi there 👋 I am a undergraduate student from Nepal Engineering College, Nepal.
 
 <!--
 **prasi09/prasi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
